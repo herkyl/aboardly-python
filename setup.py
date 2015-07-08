@@ -11,9 +11,11 @@ setup(
     version='0.1.0',
     description='Official Aboardly API library client for python',
     author='Serge',
-    author_email='',
+    author_email='info@aboardly.com',
     url='http://www.aboardly.com',
     license='MIT',
+    url="https://github.com/herkyl/aboardly-python",
+    download_url="https://github.com/herkyl/aboardly-python/archive/master.zip",
     install_requires=[
         'requests >= 2.1.0'
     ],
