@@ -8,7 +8,7 @@ except ImportError:
 
 setup(
     name='aboardly',
-    version='0.1.0',
+    version='0.1.1',
     description='Official Aboardly API library client for python',
     author='Serge',
     author_email='info@aboardly.com',
