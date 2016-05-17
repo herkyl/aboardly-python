@@ -10,11 +10,11 @@ setup(
     name='aboardly',
     version='0.1.1',
     description='Official Aboardly API library client for python',
-    author='Serge',
+    author='Martin',
     author_email='info@aboardly.com',
     license='MIT',
-    url="https://github.com/herkyl/aboardly-python",
-    download_url="https://github.com/herkyl/aboardly-python/tarball/0.1",
+    url="https://github.com/landland/aboardly-python",
+    download_url="https://github.com/landland/aboardly-python/tarball/0.1",
     install_requires=[
         'requests >= 2.1.0'
     ],
