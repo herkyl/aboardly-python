@@ -14,7 +14,7 @@ setup(
     author_email='info@aboardly.com',
     license='MIT',
     url="https://github.com/landland/aboardly-python",
-    download_url="https://github.com/landland/aboardly-python/tarball/0.1",
+    download_url="https://github.com/landland/aboardly-python/tarball/0.1.1",
     install_requires=[
         'requests >= 2.1.0'
     ],
